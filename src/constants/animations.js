@@ -1,0 +1,1 @@
+export const ANIMATION_DELAY_INCREMENT = 0.1;
